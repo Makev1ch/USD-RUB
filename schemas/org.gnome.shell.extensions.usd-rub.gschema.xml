@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.usd-rub" path="/org/gnome/shell/extensions/usd-rub/">
+    <key name="position" type="s">
+      <default>'right-of-clock'</default>
+      <summary>Position of the USD/RUB indicator</summary>
+      <description>
+        Possible values: 'right-of-clock', 'left-of-clock', 'right', 'left'.
+      </description>
+    </key>
+  </schema>
+</schemalist>
