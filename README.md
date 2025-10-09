@@ -3,7 +3,7 @@ Download via Gnome Extension Store: https://extensions.gnome.org/extension/7908/
 ### or
 
 ```
-git clone https://github.com/Makev1ch/USD-RUB.git ~/.local/share/gnome-shell/extensions/usd-rub@makev1ch.github.com
+git clone https://github.com/Makev1ch/USD-RUB ~/.local/share/gnome-shell/extensions/usd-rub@makev1ch.github.com
 ```
 
 The command above simply copies the extension to this folder
