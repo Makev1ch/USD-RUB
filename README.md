@@ -1,4 +1,4 @@
-Download via Gnome Extension Store: https://extensions.gnome.org/extension/7908/usd-to-rub-exchange-rate/
+[Download via Gnome Extension Store](https://extensions.gnome.org/extension/7908/usd-to-rub-exchange-rate/)
 
 ### or
 
